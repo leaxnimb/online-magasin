@@ -201,11 +201,60 @@ section.columnRight {
 }
 
 
+/*Magisk Ring*/
 
 
 
+ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgba(168, 55, 78);
+    line-height: 2.0;
+    margin: 20px;
+}
 
+.mgRing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 70px;
+    padding: 0 100px;
+}
 
+.mgRing h1{
+    font-family: LaBelleAurore, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:rgba(168, 55, 78);
+}
+
+.mgContainer {
+    display: flex;
+    margin: 30px;
+    padding: 0 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: #fbe6ea;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.mgOpskrift{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+}
+
+.mgOpskrift section ol{
+    margin-left: 70px;
+}
+
+.videoImg{
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    padding: 5%;
+}
 
 /*Billedegalleri*/
 
