@@ -398,7 +398,7 @@ footer {
     display: flex;
 }
 
-.kontakt{
+.kontakt .footerInfo {
     color: rgb(251, 234, 230);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-between;
