@@ -18,6 +18,11 @@ p{
 
 /*Styling af submenuer*/
 
+nav li:first-child{
+    margin-left: 0;
+    margin-right: auto;
+}
+
 .dropdown{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
