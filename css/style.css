@@ -201,9 +201,8 @@ section.columnRight {
 }
 
 
+
 /*Magisk Ring*/
-
-
 
 ol{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -256,6 +255,7 @@ ol{
     padding: 5%;
 }
 
+
 /*Billedegalleri*/
 
 .introTekst {
@@ -282,7 +282,7 @@ ol{
 
 .introTekst{
     display: flex;
-    justify-content: conter;
+    justify-content: center;
     padding: 0 10%;
     font-size: large;
     font-weight: lighter;
@@ -293,7 +293,10 @@ ol{
     padding-bottom: 70px;
 }
 
+
+
 /* Her har jeg stylet indholdet */
+
 .container{
     background-color: #fbe6ea;
     padding: 1%;
@@ -348,39 +351,7 @@ section.leftPic {
 }
 
 
-/*Styling af billede og tekst*/
-
-/* .img_right{
-    display: flex;
-    justify-content: flex-end;
-    float: right;
-    width: 50%;
-}
-
-.rightPic{
-    position: absolute;
-    width: 80%;
-    left: 8%;
-    top: 35%;
-    background-color: #fbe6ea;
-    padding: 30px; 
-    padding-top: 1%;
-}
-
-
-.img_left{
-    float: left;
-    width: 50%;
-}
-
-.leftPic{
-
-} */
-
-
-
 /*Styling footer*/
-
 
 footer {
     padding-top: 20px;
